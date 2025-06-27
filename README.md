@@ -3,3 +3,4 @@
 Можно ознакомиться в папке **etl_project** .
 Содержит **README.md** с пояснениями работы ETL пайплайна. 
 Также каталог **SQL** содержит различные запросы. 
+https://github.com/ted-d/sql-analyst-portfolio
