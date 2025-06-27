@@ -26,7 +26,7 @@ import pandas as pd
 
 ## Ключевые функции:
 ```python
-extract_metadata(sheet) - извлекает:
+extract_metadata(sheet) - извлекает основные мета данные из файлов:
 
 Субъект РФ (нормализация через REGION_NORMALIZATION)
 
