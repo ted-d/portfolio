@@ -98,7 +98,8 @@ CREATE TABLE oil_gas_data (
 );
 ```
 3. Заливка в бд
-
+в результате имеем таблицу в бд
+![screen](results/image.png)
 
 ### Общая схема ETL-пайплайна
 
