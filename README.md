@@ -6,3 +6,4 @@
 ## каталог **SQL** содержит различные запросы. 
 https://github.com/ted-d/sql-analyst-portfolio
 ## airflow dags ETL pipeline
+https://github.com/ted-d/airflow/tree/main
