@@ -21,7 +21,7 @@
 - Джоины , CTE  
 - Триггеры
 ## airflow dags ETL pipeline
-⚙️ [Airflow: загрузка курсов валют](https://github.com/ted-d/airflow)
+## ⚙️ [Airflow: загрузка курсов валют](https://github.com/ted-d/airflow)
 Как это работает:
 Ежедневный сбор данных с ЦБ РФ
 Контроль качества данных
