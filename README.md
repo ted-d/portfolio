@@ -13,7 +13,7 @@
 
 ---
 
-### 🐼 [Retail Analytics: расчет прибыльности в Pandas](https://github.com/ted-d/pandas-retail-analysis](https://github.com/ted-d/excel_pandas)  
+### 🐼 [Retail Analytics: расчет прибыльности в Pandas](https://github.com/ted-d/excel_pandas)  
 **Что внутри:**  
 - ETL-процесс обработки розничных данных из Excel  
 - Фильтрация и объединение 3 связанных таблиц  
